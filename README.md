@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy sebachile
 
-<!--
-**sebachile/sebachile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub.
 
-Here are some ideas to get you started:
+## 🌐 Portafolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Visita mi portafolio para conocer más sobre mis proyectos, experiencia y habilidades:
+[https://sebachile.github.io/portafolio/](https://sebachile.github.io/portafolio/)
+
+## 🚀 Proyectos Destacados
+
+- Explora mis repositorios aquí en GitHub o en mi [portafolio](https://sebachile.github.io/portafolio/) para ver mis trabajos más recientes.
+
+## 📫 Contacto
+
+Si quieres ponerte en contacto, revisa las opciones en mi portafolio o envíame un mensaje directo aquí en GitHub.
+
+---
+
+¡Gracias por visitar mi perfil!
