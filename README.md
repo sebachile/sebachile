@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy sebachile
+# 👋 ¡Hola! Soy Sebastián
 
 Bienvenido a mi perfil de GitHub.
 
